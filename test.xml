@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <proc>
+        test
+        <info test1="test2"/>
+    </proc>
+    <list>
+        <cell/>
+        <cell/>
+        <ce/>
+        <ele> </ele>
+    </list>
+</root>
